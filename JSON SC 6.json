@@ -1,0 +1,26 @@
+[
+    {
+        "nim": "2609116055",
+        "nama": "Darrell",
+        "mata_kuliah": "Pemrograman Dasar",
+        "nilai": 85
+    },
+    {
+        "nim": "2609116056",
+        "nama": "Tata",
+        "mata_kuliah": "Pemrograman Dasar",
+        "nilai": 90
+    },
+    {
+        "nim": "2609116057",
+        "nama": "Budi",
+        "mata_kuliah": "Pemrograman Dasar",
+        "nilai": 88.0
+    },
+    {
+        "nim": "2609116058",
+        "nama": "Michael",
+        "mata_kuliah": "Pemrograman Dasar",
+        "nilai": 78.0
+    }
+]
